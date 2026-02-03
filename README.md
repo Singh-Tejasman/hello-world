@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 Hi! I'm Tejasman Singh, a student in Computing Science 10.
 
 ## About Me
